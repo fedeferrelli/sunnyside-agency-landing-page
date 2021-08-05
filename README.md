@@ -14,10 +14,10 @@ Users should be able to:
 
 ### Screenshot
 
-./images/screenshots/375pxWidth.jpg
-./images/screenshots/750pxWidth.jpg
-./images/screenshots/1020pxWidth.jpg
-./design/desktop-preview.jpg
+(./images/screenshots/375pxWidth.jpg)
+(./images/screenshots/750pxWidth.jpg)
+(./images/screenshots/1020pxWidth.jpg)
+(./design/desktop-preview.jpg)
 
 
 ### Links
