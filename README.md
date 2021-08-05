@@ -14,15 +14,16 @@ Users should be able to:
 
 ### Screenshot
 
-![](./images/screenshots/375pxWidth.jpg)
-![](./images/screenshots/750pxWidth.jpg)
-![](./images/screenshots/1020pxWidth.jpg)
+./images/screenshots/375pxWidth.jpg
+./images/screenshots/750pxWidth.jpg
+./images/screenshots/1020pxWidth.jpg
+./design/desktop-preview.jpg
 
 
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+
 
 
 
