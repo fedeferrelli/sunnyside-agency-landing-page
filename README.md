@@ -14,10 +14,7 @@ Users should be able to:
 
 ### Screenshot
 
-(./images/screenshots/375pxWidth.jpg)
-(./images/screenshots/750pxWidth.jpg)
-(./images/screenshots/1020pxWidth.jpg)
-(./design/desktop-preview.jpg)
+![Design preview for the Sunnyside agency landing page coding challenge](./design/desktop-preview.jpg)
 
 
 ### Links
