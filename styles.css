@@ -494,7 +494,6 @@ header{
     }
     .header-text-h1{
         padding: 0 10rem;
-        border: solid;
     }
 }    
 
@@ -824,3 +823,9 @@ header{
         margin-bottom: 4rem;
     }
 }    
+
+@media (min-width:1200px){
+
+    :root{
+        font-size: 20px;   
+    }
