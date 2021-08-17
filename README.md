@@ -14,9 +14,9 @@ Users should be able to:
 
 ### Screenshot
 
-![Design preview for the Sunnyside agency landing page coding challenge](./images/screenshots/375pxWidth.png)
-![Design preview for the Sunnyside agency landing page coding challenge](./images/screenshots/750pxWidth.png)
-![Design preview for the Sunnyside agency landing page coding challenge](./images/screenshots/1020pxWidth.png)
+![Design preview for the Sunnyside agency landing page coding challenge](./images/screenshots/375pxWidth.jpg)
+![Design preview for the Sunnyside agency landing page coding challenge](./images/screenshots/750pxWidth.jpg)
+![Design preview for the Sunnyside agency landing page coding challenge](./images/screenshots/1020pxWidth.jpg)
 
 
 ### Links
